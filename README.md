@@ -8,3 +8,4 @@ This repository contains 15 Projects in 15 days of HTML/CSS and JavaScript.
 1) </B>Sound Board
 2) Sticky notes
 3) Hover Board
+4) Kinetic Loader
