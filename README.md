@@ -2,6 +2,7 @@
 
 This repository contains 15 Projects in 15 days of HTML/CSS and JavaScript.
  They are helpful for beginners who are trying their hands with Web development.
+ Check them out.
 
 <b>List of Projects :
 
