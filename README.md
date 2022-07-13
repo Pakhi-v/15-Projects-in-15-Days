@@ -12,3 +12,4 @@ This repository contains 15 Projects in 15 days of HTML/CSS and JavaScript.
 4) Kinetic Loader
 5) Theme Clock
 6) Password Generator
+7) Image Gallery
