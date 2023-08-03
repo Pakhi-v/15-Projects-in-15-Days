@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2316F7&lines=15-Projects-in-15-Days)](https://git.io/typing-svg)
 
 This repository contains 15 Projects in 15 days using tech stack as HTML/CSS and JavaScript.
- They are helpful for beginners who are trying their hands with Web development.
+These are some helpful projects for beginners who are trying their hands on Web development.
  Check all of them out.
 
 <b>List of Projects made :
