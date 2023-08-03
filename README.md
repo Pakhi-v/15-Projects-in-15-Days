@@ -4,7 +4,7 @@ This repository contains 15 Projects in 15 days using tech stack as HTML/CSS and
 These are some helpful projects for beginners who are trying their hands on Web development.
 Check them out.
 
-<b>List of Projects made :
+<b>List of Projects :
 
 1) </B>Sound Board
 2) Sticky notes
